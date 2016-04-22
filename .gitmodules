@@ -1,0 +1,3 @@
+[submodule "SE deliverables"]
+	path = SE deliverables
+	url = git@github.com:HiVR/deliverables.git
