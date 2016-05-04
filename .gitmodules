@@ -4,3 +4,6 @@
 [submodule "HiVRClient"]
 	path = HiVRClient
 	url = git@github.com:HiVR/HiVRClient.git
+[submodule "CleVR-map"]
+	path = CleVR-map
+	url = git@github.com:HiVR/CleVR-map.git
