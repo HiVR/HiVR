@@ -7,3 +7,6 @@
 [submodule "CleVR-map"]
 	path = CleVR-map
 	url = git@github.com:HiVR/CleVR-map.git
+[submodule "ContinuousIntegration"]
+	path = ContinuousIntegration
+	url = git@github.com:HiVR/ContinuousIntegration.git
