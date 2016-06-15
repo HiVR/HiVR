@@ -10,3 +10,6 @@
 [submodule "ContinuousIntegration"]
 	path = ContinuousIntegration
 	url = git@github.com:HiVR/ContinuousIntegration.git
+[submodule "SerializedObjects"]
+	path = SerializedObjects
+	url = git@github.com:HiVR/SerializedObjects.git
